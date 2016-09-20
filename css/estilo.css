@@ -1,6 +1,6 @@
 .banner{
 	width:  700px;
-	height: 400px;
+	height: 200px;
 	border: 3px solid #F2B80D;
 	margin: auto;
 	background: white;
@@ -88,7 +88,7 @@ aside{
 }
 footer{
 	width: 1000px;
-	height: 420px;
+	height: 220px;
 	background: white;
 	float: left;
 	margin-top:20px; 
